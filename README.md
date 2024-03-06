@@ -5,7 +5,7 @@
 
 ### 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>  <img src="https://img.shields.io/badge/ROS-#22314E?style=for-the-badge&logo=ROS&logoColor=white">
 
 <br/>
  💪🏼 Tools 
