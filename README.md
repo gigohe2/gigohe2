@@ -1,6 +1,6 @@
 # Youngjun Hwang
 
-### S/W
+### 
 <br/>
 
 ### 🛠️ Stacks
