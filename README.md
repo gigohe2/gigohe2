@@ -36,8 +36,8 @@ Autonomous mobility, Control system, Embedded system
 ### 📃 Paper
 |기관|논문명|게재일|링크|
 |---|------|---|--|
-|한국방송미디어공학회 2023년 하계 학술대회|[비디오의 25개의 프레임들을 이용한 시계열 학습 딥페이크 비디오 탐지 연구}(https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%202%5DIPIU_paper.pdf)|23.06.28-30|
-|KISS 2023|[소형 자율주행차를 위한 횡방향 제어 알고리즘의 구현 및 실험 검증]()|23.11.10-11|
+|한국방송미디어공학회 2023년 하계 학술대회|[비디오의 25개의 프레임들을 이용한 시계열 학습 딥페이크 비디오 탐지 연구}(https://github.com/gigohe2/gigohe2/blob/main/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EB%AF%B8%EB%94%94%EC%96%B4%EA%B3%B5%ED%95%99%ED%9A%8C_%ED%99%A9%EC%98%81%EC%A4%80.pdf)|23.06.28-30|
+|KISS 2023|[소형 자율주행차를 위한 횡방향 제어 알고리즘의 구현 및 실험 검증](https://github.com/gigohe2/gigohe2/blob/main/%ED%99%A9%EC%98%81%EC%A4%80_%ED%95%9C%EA%B5%AD%EC%A7%80%EB%8A%A5%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%95%99%ED%9A%8C_2023%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C.pdf)|23.11.10-11|
 <br/>
 
 
