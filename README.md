@@ -28,8 +28,7 @@ Autonomous mobility, Control system, Embedded system
 
 |기관|프로젝트|기간|링크|
 |---|------|---|---|
-|ETRI|플렙옵틱 표준화 연구 연구용역|22.07.04 ~ 22.11.30|-|
-|ETRI|플렌옵틱 표준화 연구 연구용역|23.07.17 ~ 23.11.30|-|
+
 <br/>
 
 ### 📃 Paper
