@@ -29,6 +29,7 @@ Autonomous mobility, Control system, Embedded system
 
 |기관|프로젝트|기간|링크|
 |---|------|---|---|
+|디매스타|인공지능 기반 자율주행 스마트카 개발 및 실험 검증|23.06.01~24.01.31|[repo](https://github.com/gigohe2/2023_Mini_autonomous_car)|
 
 <br/>
 
