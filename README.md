@@ -19,7 +19,7 @@ Autonomous mobility, Control system, Embedded system
 |기관|대회 이름|기간|링크|
 |---|------|---|---|
 |단국대학교|산업체 연계 캡스톤 디자인(CS로보틱스)|23.04.07 ~ 23.11.30|[repo](https://github.com/gigohe2/2023_Echo-project_Where-are-you-go), 우수상|
-|단국대 공학교육혁신센터|2023 신산업 창의융합 아이디어 경진대회|23.07.10~23.09.01|[repo](https://github.com/gigohe2/Face-tracking-kiosk), 우수상|
+|단국대 공학교육혁신센터|2023 신산업 창의융합 아이디어 경진대회|23.07.10 ~ 23.09.01|[repo](https://github.com/gigohe2/Face-tracking-kiosk), 우수상|
 |한양대 ERICA 공학교육혁신센터|2023 창의적 종합설계 경진대회|23.09.01 ~ 23.11.22|[repo](https://github.com/gigohe2/Face-tracking-kiosk), 동상|
 |모라이|2023년 샤크 자율주행 대회|23.10.01 ~ 23.11.24|[repo](https://github.com/gigohe2/2023_Autonomous-vehicle-competition), 우수상|
 |현대모비스|2024 현대모비스 모빌리티 SW 해커톤|24.02.03 ~ 24.02.23|[repo](https://github.com/gigohe2/2024_mobility_sw_hackathon), 본선 진출|
