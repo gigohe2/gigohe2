@@ -39,7 +39,7 @@ Autonomous mobility, Control system, Embedded system
 |---|------|---|--|
 |한국방송미디어공학회 2023년 하계 학술대회|[비디오의 25개의 프레임들을 이용한 시계열 학습 딥페이크 비디오 탐지 연구](https://github.com/gigohe2/gigohe2/blob/main/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%EB%AF%B8%EB%94%94%EC%96%B4%EA%B3%B5%ED%95%99%ED%9A%8C_%ED%99%A9%EC%98%81%EC%A4%80.pdf)|23.06.28-30|
 |KISS 2023|[소형 자율주행차를 위한 횡방향 제어 알고리즘의 구현 및 실험 검증](https://github.com/gigohe2/gigohe2/blob/main/%ED%99%A9%EC%98%81%EC%A4%80_%ED%95%9C%EA%B5%AD%EC%A7%80%EB%8A%A5%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%95%99%ED%9A%8C_2023%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C.pdf)|23.11.10-11|
-|KIEE|[상호 보완적 상태 피드백 제어기를 이용한 차량 종방향 제어 시스템의 T-S 퍼지 모델 기반 에너지 대 피크 제어]([https://github.com/gigohe2/gigohe2/blob/main/%ED%99%A9%EC%98%81%EC%A4%80_%ED%95%9C%EA%B5%AD%EC%A7%80%EB%8A%A5%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%95%99%ED%9A%8C_2023%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C.pdf](https://github.com/gigohe2/gigohe2/blob/main/12-2024-D-CI-0046.hwp.pdf))|2025-01(Vol.74 No.01)|
+|KIEE|[상호 보완적 상태 피드백 제어기를 이용한 차량 종방향 제어 시스템의 T-S 퍼지 모델 기반 에너지 대 피크 제어](https://github.com/gigohe2/gigohe2/blob/main/%ED%99%A9%EC%98%81%EC%A4%80_%ED%95%9C%EA%B5%AD%EC%A7%80%EB%8A%A5%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%95%99%ED%9A%8C_2023%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C.pdf)|2025-01(Vol.74 No.01)|
 <br/>
 
 
